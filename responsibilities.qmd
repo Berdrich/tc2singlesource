@@ -1,0 +1,9 @@
+---
+title: "Responsibilities: Now and Future"
+---
+
+My responsibilities have grown since arriving at the Phipps from solely digital marketing (namely emails and social media) to greater management of information and technical communication. Likewise, my role can continue to evolve for the growing and changing needs of the Phipps. 
+
+{{< include Duties/_current_responsibilities.qmd >}}
+
+{{< include Duties/_future_responsibilities.qmd >}}

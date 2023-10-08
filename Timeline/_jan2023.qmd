@@ -1,0 +1,19 @@
+## January 2023: Beginning of Master’s Degree
+Since beginning this role, I have begun and neared completion of the University of Minnesota’s Master of Science in Scientific & Technical Communication degree, which includes central courses highly relevant to my work: 
+
+* Information Design
+* Usability and Human Factors
+* Writing with Digital Technologies
+* Editing and Style for Technical Communicators
+* Foundations & Futures of Technical Communication.
+
+**Noteable achievements to date:**
+
+* Overhauling the monthly e-newsletter to a bimonthly “What’s Abuzz,” using principals of usability and information design, increasing the rate of email opens from 42% to 51% (40% is industry average) and increasing the rate of clicks in emails from 2% to 3% (1% is industry average: 
+* Renovating the information architecture of thephipps.org, reducing number of user actions required to find a show on a specific date from 17–38 steps to 7, hugely improving the usability and navigability of the site. 
+* Creating importable Microsoft Word and Google Slides document design styles using official Phipps colors and fonts (this document is an example of that design)
+* Redesigning the Phipps Summer Arts Camp webpage listings to be searchable by age, week, and type of class. 
+* Standardizing Phipps documentation with a style guide of fonts, colors, and grammatical choices contemporary with modern style guides such as the Chicago Manual of Style. 
+* Designing modern social media post graphics, flyers, and emails using principals of information design
+
+Most recently, I have been working on improving the system of generating photos and videos for the incredible array of events around the Phipps. This system includes utilizing Google Folders, which is widely accessible, and three simple rules to ensure consistent, high-quality photos across all disciplines. It invites producers, directors, adult performers, and instructors to take their own photos for a chance to be featured in Phipps marketing and publicity endeavors. 

@@ -1,0 +1,13 @@
+---
+title: "Proposal: Part-Time or Full-Time"
+---
+
+Presented here are full-time and part-time options for my proposed new compensation plan, open to negotiation. 
+
+{{< include Proposal/_part-time.qmd >}}
+
+{{< include Proposal/_full-time.qmd >}}
+
+{{< include Proposal/_discussion.qmd >}}
+
+{{< include Proposal/_closing.qmd >}}

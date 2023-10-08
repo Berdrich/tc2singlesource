@@ -1,0 +1,13 @@
+---
+title: "Timeline: Nov 2022 through May 2024"
+---
+
+The following timeline covers time since hire through my plans for next year. 
+
+{{< include Timeline/_nov2022.qmd >}}
+
+{{< include Timeline/_jan2023.qmd >}}
+
+{{< include Timeline/_dec2023.qmd >}}
+
+{{< include Timeline/_spring2024.qmd >}}

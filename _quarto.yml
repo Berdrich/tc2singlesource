@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Erdrich-Phipps"
+  navbar:
+    left:
+      - href: home.qmd
+        text: Home
+      - href: timeline.qmd
+        text: Timeline
+      - href: responsibilities.qmd
+        text: Responsibilities
+      - href: proposal.qmd
+        text: Proposal
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
